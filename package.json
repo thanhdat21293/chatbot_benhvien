@@ -1,0 +1,17 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Use chatbot to eye examination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thanh Dat",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.10.1",
+    "express": "^4.15.5",
+    "nodemon": "^1.12.1",
+    "restify": "^6.0.1"
+  }
+}
